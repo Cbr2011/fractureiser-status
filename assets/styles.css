@@ -1,0 +1,9 @@
+p {font-family: sans-serif}
+h1, h2 {font-family: sans-serif;}
+a {font-family: sans-serif}
+.StillAlive
+{background-color: red; color: white}
+.Endangered
+{background-color: yellow; color: white}
+.Dead
+{background-color: lime; color: white}
