@@ -2,6 +2,7 @@ body {text-align: center;}
 p {font-family: sans-serif}
 h1, h2 {font-family: sans-serif;}
 a {font-family: sans-serif}
+strong {font-family: sans-serif; color: red}
 .StillAlive
 {background-color: red; color: white}
 .Endangered
